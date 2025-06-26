@@ -1,0 +1,8 @@
+@font-face {
+    src: url(../fonts/Doto.ttf);
+    font-family: "Doto";
+}
+
+* {
+    font-family: "Doto";
+}
