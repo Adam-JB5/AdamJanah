@@ -4,6 +4,7 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
+  base: "/AdamJanah",
   server: {
     host: true
 }
